@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Mon Nov 26 17:37:32 2018 EST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/bee/encryption/8_4Mux/schematic/sch.oa.cdslck.dirlck
-TimeEditLocked                 Mon Nov 26 17:41:08 2018 EST
+FilePathUsedToEditLock         /home/bee/encryption/8_4Mux/layout/layout.oa.cdslck
+TimeEditLocked                 Mon Nov 26 17:41:16 2018 EST
